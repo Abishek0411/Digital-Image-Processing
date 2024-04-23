@@ -1,8 +1,8 @@
 # Digital-Image-Processing
-## Poisson Noise and Gaussian Filter
-### Problem Statement:
+## **Poisson Noise and Gaussian Filter**
+### _Problem Statement:_
 Identify the size of the landslide image. Resize the image (17x17). Apply poison noise in the image, Print the output. Remove poison noise from Image using Gaussian filter and show the final result.
-### Algorithm:
+### _Algorithm:_
 1.	Read the input landslide image using the appropriate function (imread).
 2.	Determine the size of the input landslide image using the size function.
 3.	Resize the image to 17x17 pixels using the imresize function.
